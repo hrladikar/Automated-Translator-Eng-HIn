@@ -2,6 +2,13 @@
 README to produce Automated EH Dictionary with statistical data of the Frequency of words in Corpusa & Translate to and from different languages available on translate.google.com using Selenium Web Driver for Firefox
 ---------------------------------------------------------------------------------------------------------------------------
 Developed by : Hrishikesh Ladikar & Harshit Patel
+================================================================================
+Install 
+> Termsuite (termsuite-core-3.0.10.jar) from http://termsuite.github.io/getting-started/
+> JDK and JRE 
+=================================================================================
+
+> Unzip Operation_engine and Tree Tagger before usage
 ================================
 Install the selenium web driver:
 -> pip install -U selenium
@@ -11,13 +18,6 @@ Install the selenium web driver:
 Download the latest version of geckodriver from: https://github.com/mozilla/geckodriver/releases
 Extract and paste the driver in the '/usr/bin' or '/usr/local/bin' directory.
 ================================================================================================
-
-
-Install 
-> JDK and JRE 
-
-the components are listed for installation in the above link for termsuite
-=================================================================================================
 
 Store your text files (with .txt extension in Operation_engine/English/txt/)
 =================================================================================================
