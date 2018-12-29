@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 README to produce Automated EH Dictionary with statistical data of the Frequency of words in Corpusa & Translate to and from different languages available on translate.google.com using Selenium Web Driver for Firefox
 ---------------------------------------------------------------------------------------------------------------------------
-# Developed by : Hrishikesh Ladikar & Harshit Patel
+Developed by : Hrishikesh Ladikar & Harshit Patel
 ================================
 Install the selenium web driver:
 -> pip install -U selenium
@@ -19,10 +19,10 @@ Install
 the components are listed for installation in the above link for termsuite
 =================================================================================================
 
->>> Store your text files (with .txt extension in Operation_engine/English/txt/)
+Store your text files (with .txt extension in Operation_engine/English/txt/)
 =================================================================================================
 
->>> Statistical data for High frequency lexicon can be seen operation_engine.tsv
+Statistical data for High frequency lexicon can be seen operation_engine.tsv
 =================================================================================================
 
 
