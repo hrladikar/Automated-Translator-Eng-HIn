@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------------------------------------------------------
+README to produce Automated EH Dictionary with statistical data of the Frequency of words in Corpusa & Translate to and from different languages available on translate.google.com using Selenium Web Driver for Firefox
+---------------------------------------------------------------------------------------------------------------------------
+# Developed by : Hrishikesh Ladikar & Harshit Patel
+================================
+Install the selenium web driver:
+-> pip install -U selenium
+================================
+
+================================================================================================
+Download the latest version of geckodriver from: https://github.com/mozilla/geckodriver/releases
+Extract and paste the driver in the '/usr/bin' or '/usr/local/bin' directory.
+================================================================================================
+
+
+Install 
+> JDK and JRE 
+
+the components are listed for installation in the above link for termsuite
+=================================================================================================
+
+>>> Store your text files (with .txt extension in Operation_engine/English/txt/)
+=================================================================================================
+
+>>> Statistical data for High frequency lexicon can be seen operation_engine.tsv
+=================================================================================================
+
+
+Command:
+-> bash suite_tool.sh
+
+This command will take input data in English language which is present in the "english" file and the translated data will be stored in "hindi" file.
